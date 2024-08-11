@@ -1,0 +1,1 @@
+This is a repo for a project about the basics of ES6.
