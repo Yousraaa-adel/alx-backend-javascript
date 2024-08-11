@@ -1,0 +1,1 @@
+This repo is for all projects in the backend specialization in ALX SE programme.
