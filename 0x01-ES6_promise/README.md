@@ -1,0 +1,1 @@
+This is a project to understand promisses with js.
