@@ -8,10 +8,8 @@ export default async function asyncUploadUser() {
         user,
       }),
     )
-    .catch(
-      ({
-        photo: null,
-        user: null,
-      }),
-    );
+    .catch(() => ({
+      photo: null,
+      user: null,
+    }));
 }
